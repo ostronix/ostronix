@@ -31,46 +31,4 @@
 <p align="center">
   <img height="120em" align="center" src="https://activity-graph.herokuapp.com/graph?username=spelsinx&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true" />
 </p>
-<style>
-.colorum {
-    border: 0;
-    border-radius: 10px;
-    font-size: 15px;
-    font-weight: 600;
-    text-transform: uppercase;
-    padding: 9px 26px;
-    margin: 5px 10px;
-    display: inline-block;
-    white-space: nowrap;
-    outline: none;
-    -webkit-transition: all .3s ease 0s;
-    transition: all .3s ease 0s;
-    -webkit-transform: scale(1);
-    -moz-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1)
-}
-.red {
-background-color: red;
-}
-.blue {
-background-color: red;
-}
-</style>
-<h1>🔥 Support me:</h1>
-<center><div id = "mytext"</div></center>
-<script type="text/javascript">
-function context () {
-var text = "💡 QIWI Card: 2200 7302 4336 1066";
-document.querySelector("#mytext").innerHTML = text;
-}
-function contexttwo () {
-var text = "🚀 QIWI Nick: NODEJSLUPUS";
-document.querySelector("#mytext").innerHTML = text;
-}
-</script>
-<center>
-<button onclick="context()" class="colorum red">QIWI Card</button>
-<button onclick="contexttwo()" class="colorum blue">QIWI Nick</button>
-</center>
 </html>
