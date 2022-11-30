@@ -29,6 +29,6 @@
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=ostrovsky-swedesdart&show_icons=true&theme=highcontrast" /><br>
 <p align="center"><b>🚀 Github Contribution Graph</b></p>
 <p align="center">
-  <img height="120em" align="center" src="https://activity-graph.herokuapp.com/graph?username=spelsinx&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true" />
+  <img height="120em" align="center" src="https://activity-graph.herokuapp.com/graph?username=ostrovsky-swedesdart&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true" />
 </p>
 </html>
