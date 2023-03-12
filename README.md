@@ -11,6 +11,7 @@
       <a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/swedesdart_rus" /> </a>
 
 <a href="https://t.me/garant_ostrovsky"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=t.me/garant_ostrovsky" /> </a>
+		<a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=npmjs.com/~ostrovsky-swedesdart" /> </a>
 	</center>
 	</p>
 	<p align="center">
