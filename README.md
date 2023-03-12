@@ -7,7 +7,7 @@
 		<h1 align="center">
 		Click to URL ⬇️
 		</h1>
-        <br><a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ссылка на VK" /> </a>
+        <br><a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Ссылка на VK" /> </a>
         <br><a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Ссылка на NPMJS" /> </a>
 	</p>
 	<p align="center">
