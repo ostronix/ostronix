@@ -7,9 +7,9 @@
 		<h1 align="center">
 		Click to URL ⬇️
 		</h1>
-        <a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=#36BCF7&lines=VK" /> </a>
+      <a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/swedesdart_rus" /> </a>
 
-<a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=#36BCF7&lines=NPmJS" /> </a>
+<a href="https://t.me/garant_ostrovsky"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=t.me/garant_ostrovsky" /> </a>
 	</p>
 	<p align="center">
 		<h1 align="center">🔥 Hi, I'm ostrovsky-swedesdart-rus!</h1>
