@@ -7,8 +7,8 @@
 		<h1 align="center">
 		Click to URL ⬇️
 		</h1>
-        <br><a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/swedesdart_rus" /> </a>
-        <br><a href="https://t.me/garant_ostrovsky"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=t.me/garant_ostrovsky" /> </a>
+        <br><a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ссылка на VK" /> </a>
+        <br><a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Ссылка на NPMJS" /> </a>
 	</p>
 	<p align="center">
 		<h1 align="center">🔥 Hi, I'm ostrovsky-swedesdart-rus!</h1>
@@ -18,7 +18,7 @@
  • <a align="center" target="_blank" href="https://npmjs.com/package/pinguage">🎩 Pinguage</a><text> — Ping framework in Nodejs.</text><br>
  • <a align="center" target="_blank" href="https://npmjs.com/package/vksnake">🏗️ VkSnake</a><text> — VK builded in Nodejs.</text><br>
  • <a align="center" target="_blank" href="https://npmjs.com/package/vkstatic">🛒 VkStatic</a><text> — UP VK builded number two.</text><br>
- • <a align="center" target="_blank" href="https://npmjs.com/package/pinguage-request">💡 Pinguage-Request</a><text> — Get a result about the validity of the site in node js or type script.</text><br>
+ • Outdated - <a align="center" target="_blank" href="https://npmjs.com/package/pinguage-request">💡 Pinguage-Request</a><text> — Get a result about the validity of the site in node js or type script.</text><br>
  • <a align="center"><b>🔥 Further</b></a><text> – more</text>
 <h1 align="center">ℹ️ Statistics to language (WHITE):</h1>
 <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostrovsky-swedesdart&layout=compact" alt="TopCodeBeast" align="center"/>
