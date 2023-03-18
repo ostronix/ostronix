@@ -2,6 +2,9 @@
 <html>
 
 <head>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 	<link rel="stylesheet" href="styles.css">
 	<p align="center"> <img align="center" width=250 weigth=250 src="1679130282.jpg" /><br>
 		<h1 align="center">
