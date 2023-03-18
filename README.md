@@ -3,7 +3,7 @@
 
 <head>
 	<link rel="stylesheet" href="styles.css">
-	<p align="center"> <img align="center" width=250 weigth=250 src="https://sun9-27.userapi.com/impg/5RcrhfrP2-LuZsnqzHXOtveqDLmUMJyKgdImHw/_VV1SwhnrfA.jpg?size=604x570&quality=96&sign=0224203ab560d076259d20642f4b7ba7&c_uniq_tag=eWwWpQrfushgnsn01TY-BjIuIc7jl8PwMnDF_Ij1tOc&type=album" /><br>
+	<p align="center"> <img align="center" width=250 weigth=250 src="1679130282.jpg" /><br>
 		<h1 align="center">
 		Click to URL ⬇️
 		</h1>
