@@ -14,7 +14,7 @@
       <a href="https://ostronix.github.io"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=www.ostronix.github.io" /> </a>
 
 <a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=npmjs.com/~ostrovsky-swedesdart" /> </a>
-<a href="https://vk.com/swedesdart_rus"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/swedesdart_rus" /> </a>
+<a href="https://vk.com/ostronix"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/ostronix" /> </a>
 	</center>
 	</p>
 	<p align="center">
