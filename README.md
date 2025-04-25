@@ -13,8 +13,8 @@
 	<center>
       <a href="https://ostronix.github.io"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=www.ostronix.github.io" /> </a>
 
-<a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=npmjs.com/~ostrovsky-swedesdart" /> </a>
-<a href="https://vk.com/ostronix"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/ostronix" /> </a>
+<a href="https://www.npmjs.com/~ostronix2.0"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=npmjs.com/~ostronix2.0" /> </a>
+<a href="https://t.me/ostrovsky_forward"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=t.me/ostrovsky_forward" /> </a>
 	</center>
 	</p>
 	<p align="center">
