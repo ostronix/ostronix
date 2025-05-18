@@ -21,11 +21,6 @@
 		<h1 align="center">🔥 Hi, I'm ostrovsky-swedesdart-rus!</h1>
 		<h3 align="center">I am an advanced coder who writes C++, C#, C, JavaScript, TypeScript, Ruby, Dart, Flutter, HTML, CSS, B, Golang. Glad you visit my Github card</i><br>
     </p>
-<h1 align="center">💡 Projects in NmpJS:</h1>
- • <a align="center" target="_blank" href="https://npmjs.com/package/pinguage">🎩 Pinguage</a><text> — Ping framework in Nodejs.</text><br>
- • <a align="center" target="_blank" href="https://npmjs.com/package/vksnake">🏗️ VkSnake</a><text> — VK builded in Nodejs.</text><br>
- • <a align="center" target="_blank" href="https://npmjs.com/package/vkstatic">🛒 VkStatic</a><text> — UP VK builded number two.</text><br>
- • Outdated - <a align="center" target="_blank" href="https://npmjs.com/package/pinguage-request">💡 Pinguage-Request</a><text> — Get a result about the validity of the site in node js or type script.</text><br>
  • <a align="center"><b>🔥 Further</b></a><text> – more</text>
 <h1 align="center">ℹ️ Statistics to language (WHITE):</h1>
 <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostronix&layout=compact" alt="TopCodeBeast" align="center"/>
