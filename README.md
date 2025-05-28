@@ -1,7 +1,7 @@
 <html>
 	<p align="center">
-		<h1 align="center">🔥 Hi, I'm ostrovsky-swedesdart-rus!</h1>
-		<h3 align="center">I am an advanced coder who writes C++, C#, C, JavaScript, TypeScript, Ruby, Dart, Flutter, HTML, CSS, B, Golang. Glad you visit my Github card</i><br>
+		<h1 align="center">🔥 Hi, I'm #ostrovsky!</h1>
+		<h3 align="center">I am an advanced coder who writes TypeScript, JavaScript, HTML, CSS, C++, PHP, Python. Glad you visit my Github card</i><br>
     </p>
  • <a align="center"><b>🔥 Further</b></a><text> – more</text>
 <h1 align="center">ℹ️ Statistics to language (WHITE):</h1>
